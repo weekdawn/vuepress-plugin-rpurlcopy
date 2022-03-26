@@ -2,7 +2,7 @@
 
 ## install
 ```bash
-npm install weekdawn/vuepress-plugin-rpurlcopy -D
+npm install vuepress-plugin-rpurlcopy -D
 ```
 
 ## Use
