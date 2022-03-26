@@ -1,6 +1,6 @@
 {
-  "name": "vuepress-plugin-rpurl",
-  "version": "1.0.2",
+  "name": "vuepress-plugin-rpurlcopy",
+  "version": "1.0.0",
   "description": "Replace VuePress Blog URL of Pages and NavLinks.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/boboidream/vuepress-plugin-rpurl.git"
+    "url": "git+https://github.com/weekdawn/vuepress-plugin-rpurlcopy"
   },
   "keywords": [
     "vuepress",
@@ -17,10 +17,10 @@
     "sidebar",
     "navlinks"
   ],
-  "author": "boboidream",
+  "author": "wk",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/boboidream/vuepress-plugin-rpurl/issues"
+    "url": "https://github.com/weekdawn/vuepress-plugin-rpurlcopy/issues"
   },
-  "homepage": "https://github.com/boboidream/vuepress-plugin-rpurl#readme"
+  "homepage": "https://github.com/weekdawn/vuepress-plugin-rpurlcopy#readme"
 }

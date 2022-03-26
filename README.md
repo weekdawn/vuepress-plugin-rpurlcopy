@@ -2,7 +2,7 @@
 
 ## install
 ```bash
-npm install boboidream/vuepress-plugin-rpurl -D
+npm install weekdawn/vuepress-plugin-rpurlcopy -D
 ```
 
 ## Use
